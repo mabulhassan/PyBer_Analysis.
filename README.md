@@ -26,7 +26,7 @@ Suburban cities count for more than 26% of the total rides. Rural cities have co
 
 ### Total number of drivers.
 <p align="center">
-  <img src="https://https://github.com/mabulhassan/PyBer_Analysis/blob/main/total_driver_per_city.png">
+  <img src="https://github.com/mabulhassan/PyBer_Analysis/blob/main/total_driver_per_city.png">
 </p>
 Suburban cities count for more than 16% of the total rides. Urban cities have the highest number of drivers for a total of more than 80%. Rural cities count for the smallest number of drivers and total approximately 2.6%.<br/><br/>
 
@@ -58,6 +58,3 @@ The line chart shows the total fare by city type on a weekly basis starting Janu
   <img src="https://github.com/mabulhassan/PyBer_Analysis/blob/main/PyBer_summary.png">
 </p>
 
-## Summary
-
-- Suburban drivers were only about 16% of the total drivers but accounted for more than 30% of the total fares and just above a quarter of the rides.<br/>
