@@ -1,6 +1,4 @@
 # PyBer_Analysis.
-# PyBer_Analysis
-
 ## Project Overview
 Analysis data using python libraries (Pandas and Matplotlib) to visualize the Pyber 2019 spreadsheet data in order to understand trends in ridership 
 and fare prices based on city type and neighborhoods.
