@@ -22,7 +22,7 @@ The data is analyzed to provide summaries of the following information:
 <p align="center">
   <img src="https://github.com/mabulhassan/PyBer_Analysis/blob/main/total_rides_per_city.png">
 </p>
-Suburban cities count for more than 26% of the total rides. Rural cities have count for the smallest portion of rides and total approximately 5.3%.<br/><br/>
+Suburban cities count for more than 26% of the total rides. Rural cities count for the smallest portion of rides, approximately 5.3%.<br/><br/>
 
 ### Total number of drivers.
 <p align="center">
