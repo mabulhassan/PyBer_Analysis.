@@ -58,3 +58,8 @@ The line chart shows the total fare by city type on a weekly basis starting Janu
   <img src="https://github.com/mabulhassan/PyBer_Analysis/blob/main/PyBer_summary.png">
 </p>
 
+### Summary
+Recommendations to address disparities among the city types.
+1. Increase transportation in rural areas to improve the average fare per driver percentages. The number of rides in rural areas are only 16% of total cities.
+2. Rural areas have significantly higher fare price and lowest number of drivers. Increasing the number of drivers will decrease the fare prices.
+3. Increase number of drivers in Suburban cities to tackle the overall increase in fare prices indicated by the weekly driver summary in first half of 2019.
