@@ -20,25 +20,25 @@ The data is analyzed to provide summaries of the following information:
 
 ### Total number of rides.
 <p align="center">
-  <img src="https://Resources/total_rides_per_city.png">
+  <img src="https://github.com/mabulhassan/PyBer_Analysis/blob/main/total_rides_per_city.png">
 </p>
 Suburban cities count for more than 26% of the total rides. Rural cities have count for the smallest portion of rides and total approximately 5.3%.<br/><br/>
 
 ### Total number of drivers.
 <p align="center">
-  <img src="https://Resources/total_driver_per_city.png">
+  <img src="https://https://github.com/mabulhassan/PyBer_Analysis/blob/main/total_driver_per_city.png">
 </p>
 Suburban cities count for more than 16% of the total rides. Urban cities have the highest number of drivers for a total of more than 80%. Rural cities count for the smallest number of drivers and total approximately 2.6%.<br/><br/>
 
 ### Total number of fares.
 <p align="center">
-  <img src="https://Resources/total_fareamt_per_city.png">
+  <img src="https://github.com/mabulhassan/PyBer_Analysis/blob/main/total_fareamt_per_city.png">
 </p>
 Rural and Suburban cities  make up more than 2/3 of fare amouts per rider with Rural counting for more than 38% of the total rides. Urban cities have count the smallest amount of fare and total approximately 27.2%.<br/><br/>
 
 ### Average fare per driver per city.
 <p align="center">
-  <img src="http://Resources/Average_fare_per_driver_per_city.png">
+  <img src="https://github.com/mabulhassan/PyBer_Analysis/blob/main/Average_fare_per_driver_per_city.png">
 </p>
 Rural cities make up about half of the fare mounts per driver per city with a total of more than 49%. Urban cities have the smallest average of fare per driver and total approximately 14.9%.<br/><br/>
 
@@ -46,7 +46,7 @@ Rural cities make up about half of the fare mounts per driver per city with a to
 ### The average fare per driver.
 
 <p align="center">
-  <img src="https://Average_fare_per_driver_per_city.png">
+  <img src="h/ttps://github.com/mabulhassan/PyBer_Analysis/blob/main/Average_fare_per_driver_per_city.png">
 </p>
 Rural areas have the least number of drivers and rides per city thus the highest amount of fares per driver average make up about 50% of the total. Urban areas have the lowest average of total fare amount per driver.
  
@@ -55,7 +55,7 @@ Rural areas have the least number of drivers and rides per city thus the highest
 The line chart shows the total fare by city type on a weekly basis starting January to April 2019.
 
 <p align="center">
-  <img src="https://Resources/PyBer_summary.png">
+  <img src="https://github.com/mabulhassan/PyBer_Analysis/blob/main/PyBer_summary.png">
 </p>
 
 ## Summary
